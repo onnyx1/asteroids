@@ -1,0 +1,23 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 3, 2022, 1:52:07 PM
+    Author     : sretc
+*/
+
+@font-face {
+    font-family: 'Vector Battle Regular';
+    src: url('fonts/coolfont.ttf');
+}
+
+.text {
+    -fx-font-family: 'Vector Battle';
+    -fx-font-size: 18;
+}
+
+.button .text {
+    -fx-font-family: 'Vector Battle';
+}
